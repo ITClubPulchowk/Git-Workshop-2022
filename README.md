@@ -4,7 +4,7 @@ This repository constains the assignment submission for "Version Control with Gi
 
 Please read [Contributing.md](Contributing.md) to find the requirements to complete the assignment. In particular, you will submit a pull request to this repository with the requirements as stated in the `Contributing.md` file. The pull request will then be reviewed by our instructors and volunteers. The assignment is completed when your pull request is accepted. 
 
-Those students who have successfully completed the assignment will receive a digital copy of a certificate IT Club, Pulchowk. In case you want a physical copy, please contact [Nisan Shrestha](https://github.com/Nisan-Shrestha) the physical certificates will be distributed after the assignment review has been completed. 
+Those students who have successfully completed the assignment will receive a digital copy of a certificate from IT Club, Pulchowk. In case you want a physical copy, please contact [Nisan Shrestha](https://github.com/Nisan-Shrestha). The physical certificates will be distributed after the assignment review has been completed. 
 
 Also check out [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) for info on some more interesting (and equally important) topics. Be sure to checkout the [Version Control](https://missing.csail.mit.edu/2020/version-control/) section too!
 
@@ -24,3 +24,4 @@ P.S. We have a fully recorded session on git and github from last year on [youtu
 * [Rujal Acharya](https://github.com/RujalAcharya)
 * [Saurav Bastola](https://github.com/SauravBastola)
 * [Yunika Bajracharya](https://github.com/Yunika-Bajracharya)
+
