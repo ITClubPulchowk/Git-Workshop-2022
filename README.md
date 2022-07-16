@@ -22,5 +22,5 @@ P.S. We have a fully recorded session on git and github from last year on [youtu
 * [Nabin Khanal](https://github.com/khanalnabin)
 * [Nadika Poudel](https://github.com/Nadika18)
 * [Rujal Acharya](https://github.com/RujalAcharya)
-* [Saurav Bastola](https://github.com/UdeshyaDhungana)
+* [Saurav Bastola](https://github.com/SauravBastola)
 * [Yunika Bajracharya](https://github.com/Yunika-Bajracharya)
