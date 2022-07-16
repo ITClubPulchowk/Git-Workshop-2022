@@ -2,9 +2,9 @@
 
 This repository constains the assignment submission for "Version Control with Git Workshop 2022", organized [IT Club, Pulchowk](https://github.com/IT-Club-Pulchowk) supported by UxCam.
 
-Please read [Contributing.md](Contributing.md) to find the requirements to complete the assignment. In particular, you will submit a pull request to this repository with the requirements as stated in the `Contributing.md` file. The pull request will then be reviewed by our instructors and volunteers. The assignment is completed when your pull request is accepted. 
+Please read [Contributing.md](Contributing.md) to find the requirements to complete the assignment. In particular, you will submit a pull request to this repository with the requirements as stated in the `Contributing.md` file. The pull request will then be reviewed by our instructors and volunteers. The assignment is completed when your pull request is accepted. The assignments are to be submitted by **JUL 24**.
 
-Those students who have successfully completed the assignment will receive a digital copy of a certificate from IT Club, Pulchowk. In case you want a physical copy, please contact [Nisan Shrestha](https://github.com/Nisan-Shrestha). The physical certificates will be distributed after the assignment review has been completed. 
+Those students who have successfully completed the assignment will receive a digital copy of a certificate from IT Club, Pulchowk. In case you want a physical copy, please contact Nisan Shrestha(akaMark#8940) through our [discord server](https://www.discord.gg/UMCb3sNa8s). The physical certificates will be distributed after the assignment review has been completed. 
 
 Also check out [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) for info on some more interesting (and equally important) topics. Be sure to checkout the [Version Control](https://missing.csail.mit.edu/2020/version-control/) section too!
 
