@@ -1,4 +1,0 @@
-
-to fix merge conflict i created a file in my own branch first
-then to create merge conflict i created a file in my new branch
-
