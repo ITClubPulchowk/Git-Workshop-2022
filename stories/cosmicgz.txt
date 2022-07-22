@@ -4,3 +4,4 @@ Added new line
 Name: Gajananda Mani Adhikari
 github-username: cosmicgz
 College: Cosmos College of Management & Technology
+Email:cosmicgz11@gmail.com
