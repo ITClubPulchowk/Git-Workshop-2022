@@ -7,6 +7,8 @@ The pull request should contain the following additions:
 
 For #3, you will need to create a merge conflict on the newly created file. Please make sure you don’t change any other files. One way of preventing it would be to use `git status` before you add files to the staging area. Make sure that the only file modified is the new file you created. Also, **the commit message for the commit that resolves the conflict**, must explicitly begin with “Merge conflict resolved”. 
 
+Note: You can watch this [video](https://www.youtube.com/watch?v=nT8KGYVurIU) to get idea, if you are not sure how to start your assignment.
+
 Please follow the guidelines below when submitting your assignment:
 * The pull request should only modify your own file. 
 * The pull request should not conflict with the main repository. 
